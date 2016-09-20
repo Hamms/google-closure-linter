@@ -1,6 +1,6 @@
 {
   "name": "google-closure-linter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM wrapper for Google Closure Linter command-line tools, for when you want to add a python dependency but not a pip dependency.",
   "homepage": "https://github.com/hamms/google-closure-linter",
   "repository": {
