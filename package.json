@@ -1,0 +1,14 @@
+{
+  "name": "google-closure-linter",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "gjslint": "./gjslint",
+    "fixjsstyle": "./fixjsstyle"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Code.org <dev@code.org> (http://code.org)",
+  "license": "ISC"
+}
