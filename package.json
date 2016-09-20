@@ -17,6 +17,9 @@
   "keywords": [
     "closure-linter"
   ],
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish"
+  },
   "license": "MIT",
   "bin": {
     "gjslint": "./gjslint",
