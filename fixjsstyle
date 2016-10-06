@@ -2,7 +2,10 @@
 
 # -*- coding: utf-8 -*-
 import re
-import sys
+import os, sys
+
+sys.path.append(os.path.join(os.path.dirname(os.path.realpath(__file__)), "closure-linter"))
+sys.path.append(os.path.join(os.path.dirname(os.path.realpath(__file__)), "gflags"))
 
 from closure_linter.fixjsstyle import main
 
